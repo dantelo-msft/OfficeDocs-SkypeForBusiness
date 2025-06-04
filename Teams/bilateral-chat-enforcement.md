@@ -58,11 +58,10 @@ To assign your newly created bilateral chat policy to users, complete the follow
 ## Create and assign a bilateral chat policy using PowerShell
 
 You can also create and assign a bilateral chat policy using PowerShell. Use the following PowerShell commands to complete the process.
-
-Connect: Connect-MicrosoftTeams
-**Create the policy:** New-CsExternalAccessPolicy -Identity EnableBilateral -FederatedBilateralChats $True
-**Assign the policy to a user / DL:** Grant-CsExternalAccessPolicy -PolicyName EnableBilateral -Identity [email address]
-**Verify the policy was assigned:** Get-CsUserPolicyAssignment -Identity [email address]
+1. **Connect:** Connect-MicrosoftTeams
+2. **Create the policy:** New-CsExternalAccessPolicy -Identity EnableBilateral -FederatedBilateralChats $True
+3. **Assign the policy to a user / DL:** Grant-CsExternalAccessPolicy -PolicyName EnableBilateral -Identity [email address]
+4. **Verify the policy was assigned:** Get-CsUserPolicyAssignment -Identity [email address]
 
 > [!NOTE]
 > Don't include the brackets around your chosen email addresses.

@@ -9,6 +9,7 @@ ms.topic: concept-article
 ms.assetid: ab9f05a2-22cb-4692-a585-27f82d1b37c7
 ms.tgt.pltfrm: cloud
 ms.service: msteams
+ms.subservice: teams-calling
 search.appverid: MET150
 ms.collection: 
   - M365-voice
@@ -197,6 +198,8 @@ However, there might be times when you require nesting with resource accounts. F
 
 > [!IMPORTANT]
 > Nesting Auto attendants and Call queues without a resource account isn't currently supported for [Authorized users](aa-cq-authorized-users-plan.md) in Queues App. If you nest an Auto attendant or Call queue without a resource account, authorized users can't edit the auto attendant or call queue.
+>
+> The Teams admin center displays notifications indicating that all voice applications must be linked to a resource account. However, you can disregard these alerts for nested auto attendants and call queues.
 
 ### Reporting and Nested Auto attendants and Call queues
 

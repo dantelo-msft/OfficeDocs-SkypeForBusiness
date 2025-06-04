@@ -75,9 +75,6 @@ Let's look at the following example.
 
 Daniela can give control of the shared desktop or window to other participants in a meeting or webinar Adele organizes. However, Adele can't give control to other participants.
 
-> [!NOTE]
-> To give and take control of shared content during sharing, both users must be using the Teams desktop client. Control isn't supported when either user is using Teams in a browser.
-
 #### PowerShell
 
 Use the **`-AllowExternalParticipantGiveRequestControl`** parameter within the PowerShell [**CsTeamsMeetingPolicy**](/powershell/module/skype/set-csteamsmeetingpolicy) cmdlet to control whether or not external participants can give, be given, and request control during meetings and webinars.

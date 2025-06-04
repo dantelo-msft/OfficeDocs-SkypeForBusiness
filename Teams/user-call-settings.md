@@ -26,15 +26,15 @@ description: Learn how to configure user settings for call forwarding and delega
 ---
 # Configure call forwarding and delegation settings
 
-This article describes how you, the administrator, can change call forwarding and delegation settings for your users. This capability is sometimes referred to in the industry as *shared line appearance*.
+This article describes how you, the administrator, can change call forwarding and delegation settings for your users. The call delegation feature in Teams Phone is sometimes referred to in the industry as *shared line appearance*.
 
-A shared line appearance in Teams, using call forwarding and delegation settings, lets a user choose a delegate to answer or handle calls on their behalf. This feature is helpful if a user has an administrative assistant who regularly handles the user's calls. In the context of shared line appearance, a manager is someone who authorizes a delegate to make or receive calls on their behalf. A delegate can make or receive calls on behalf of the delegator.
+A shared line appearance in Teams allows an end user to configure their call forwarding and delegation settings so that they may assign another end user to manage calls on their behalf. This feature is helpful, for example, if someone has an administrative assistant to handle their telephone calls. In the context of call delegation, a delegator is the user authorizing a delegate to make or receive calls on their behalf. Put another way, a delegate can make or receive calls on behalf of the delegator.
 
 As a Teams administrator, you may receive a service request to modify these user settings, for example, if:
 
 - A user is out on sick leave, and you need to ensure that incoming calls to the user are forwarded to a colleague.
 - You need to inspect the call forward settings for all users in a department and potentially correct them as appropriate.
-- A new assistant is employed, and you need to add the assistant as a delegate for a group of users.
+- A new assistant is employed, and you need to add the assistant as a delegate for a manager.
 
 You can use the Teams admin center or Teams PowerShell cmdlets to view and change call settings for users.
 
@@ -44,8 +44,11 @@ You can use the Teams admin center or Teams PowerShell cmdlets to view and chang
 ## License required
 
 To set call settings for a user, the user must have an assigned Microsoft Teams Phone license.
+In the example where a manager is delegating calls to an administrative assistant, the manager and administrative assistant must each have a Teams Phone license.
 
-In the example where a manager is delegating calls to an administrative assistant, the manager and administrative assistant must each have a Teams Phone license. Managers must also have PSTN connectivity and a phone number assigned. The shared line experience is part of delegation and is included with Teams Phone. For more information on licensing, see [Microsoft Teams service description](/office365/servicedescriptions/teams-service-description).
+Call delegation and is included with Teams Phone. To learn more, see [Teams Phone licensing](teams-phone-licensing.md).
+
+ To receive external calls, managers must also have PSTN connectivity and a phone number assigned.
 
 > [!NOTE]
 > A delegate without a phone number assigned must be **EnterpriseVoiceEnabled** using the Teams PowerShell cmdlet `Set-CsPhoneNumberAssignment -Identity \<user\> -EnterpriseVoiceEnabled $true`, see [Set-CsPhoneNumberAssignment](/powershell/module/teams/set-csphonenumberassignment). If a Dial Pad shows in the Calls App of the Delegate, they're correctly configured for Enterprise Voice.  
@@ -54,9 +57,11 @@ In the example where a manager is delegating calls to an administrative assistan
 
 When a delegate makes an outbound Public Switched Telephone Network (PSTN) call on behalf of a delegator, the delegator's settings control the checks for appropriate licensing, dial-out restrictions, and call routing.
 
-## Shared line appearance feature availability
+In a scenario where the delegate and delegator have different calling policies assigned, the delegate is bound to the settings configured in their calling policy and the permissions of the delegator's calling policy are not transferred to the delegate. Therefore, it's recommended that delegates and delegators are assigned the same calling policy.
 
-The following apps and devices currently support shared line appearance:
+## Call delegation availability
+
+The following apps and devices currently support call delegation:
 
 | Capability | Teams Desktop | Teams Mac App | Teams Web App (Edge) | Teams mobile iOS/Android App | Teams IP phone |
 |--|--|--|--|--|--|
@@ -71,7 +76,7 @@ The following apps and devices currently support shared line appearance:
 | See shared call history | Yes | No | Yes | No | No|
 | Delegate or manager can hold or resume | Yes | Yes | Yes | No | Yes |
 
-## Enable delegation and shared line appearance
+## Enable delegation
 
 You enable delegation by using the **TeamsCallingPolicy AllowDelegation** setting. You can use Teams admin center or Teams PowerShell. This setting is turned on by default.
 

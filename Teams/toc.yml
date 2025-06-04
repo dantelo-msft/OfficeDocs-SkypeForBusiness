@@ -99,8 +99,12 @@ items:
                   href: /microsoftteams/troubleshoot/teams-administration/fix-new-teams-installation-issues
                 - name: Troubleshooting launch issues
                   href: /microsoftteams/troubleshoot/teams-administration/resolve-new-teams-launch-issues
-                - name: New VDI solution for Teams
-                  href: vdi-2.md
+                - name: VDI 2.0
+                  items:
+                    - name: New VDI solution for Teams
+                      href: vdi-2.md
+                    - name: VDI troubleshooting
+                      href: vdi-2-troubleshooting.md
                 - name: Classic Teams client end of availability
                   href: teams-classic-client-end-of-availability.md
                 - name: Manually uninstall classic Teams client
@@ -368,7 +372,6 @@ items:
       items:
       - name: Intelligent recap for Teams calls and meetings
         href: intelligent-recap-calls-meetings.md
-        anchor: intelligent-recap-calls-meetings
       - name: Manage transcriptions and captions for Teams meetings
         href: meeting-transcription-captions.md
       - name: Manage voice isolation for calls and meetings
@@ -412,8 +415,6 @@ items:
           href: manage-policy-packages.md
         - name: Encrypt meetings
           href: end-to-end-encrypted-meetings.md
-        - name: Hide attendee names
-          href: hide-attendee-names.md
         - name: Restrict copying and forwarding
           href: manage-chat-sensitive-meetings.md
         - name: Prevent users from sharing content in external Teams meetings
@@ -857,8 +858,6 @@ items:
               href: manage-email-communications.md
             - name: Manage the registration form for webinars
               href: manage-registration-form-webinars.md
-            - name: Hide attendee names
-              href: hide-attendee-names.md
             - name: Manage the attendance report
               href: teams-analytics-and-reports/meeting-attendance-report.md
             - name: Manage lobby options in Microsoft Teams
@@ -1145,7 +1144,6 @@ items:
           href: here-s-what-you-get-with-phone-system.md
         - name: Teams Phone licensing
           href: teams-phone-licensing.md
-          anchor: teams-phone-licensing
         - name: Set up Teams Phone
           href: setting-up-your-phone-system.md
         - name: Dial pad configuration
@@ -1204,7 +1202,9 @@ items:
       items: 
         - name: Plan Auto attendants and Call queues
           href: plan-auto-attendant-call-queue.md
-        - name: Routing calls with Auto attendants and Call queues
+        - name: Configure call priorities for Call queues
+          href: aa-cq-call-priorities.md
+        - name: Route calls with Auto attendants and Call queues
           href: plan-your-call-routing-flow.md
         - name: Set up Auto attendants
           href: create-a-phone-system-auto-attendant.md
@@ -1951,8 +1951,6 @@ items:
           href: app-centric-management.md
         - name: Preinstall apps for users
           href: install-teams-apps.md
-        - name: Manage apps across Microsoft 365
-          href: manage-apps-across-m365.md
         - name: Tailor Teams apps for your frontline workers
           href: /microsoft-365/frontline/pin-teams-apps-based-on-license?bc=%2fmicrosoftteams%2fbreadcrumb%2ftoc.json&toc=%2fmicrosoftteams%2ftoc.json
         - name: View and understand app permissions

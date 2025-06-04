@@ -365,7 +365,11 @@ For more information about supported SBCs, see [Session Border Controllers certi
 
 ## Support boundaries
 
-Microsoft only supports Teams Phone with Direct Routing when used with certified devices. If there are issues, you must contact your SBC vendor's customer support first. If needed, the SBC vendor escalates the issue to Microsoft through internal channels. Microsoft reserves the right to reject support cases where a non-certified device is connected to Teams Phone through Direct Routing. If Microsoft determines that a customer's Direct Routing issue is with a vendor's SBC device, the customer needs to re-engage the SBC vendor for support.
+Microsoft only supports Teams Phone with Direct Routing when used with certified devices. If there are issues, you must contact your SBC vendor's customer support first. If needed, the SBC vendor escalates the issue to Microsoft through internal channels. 
+
+To escalate SBC related issues to Microsoft support, customers must present an SBC vendor investigation report. This document, containing the vendor's ticket reference number, will be supplied by their certified SBC vendor.
+
+Microsoft reserves the right to reject support cases where a non-certified device is connected to Teams Phone through Direct Routing. If Microsoft determines that a customer's Direct Routing issue is with a vendor's SBC device, the customer needs to re-engage the SBC vendor for support.
 
 ## See also
 

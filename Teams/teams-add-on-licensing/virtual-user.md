@@ -26,6 +26,9 @@ description: Learn how to assign Microsoft Teams Phone Resource Account licenses
 
 # Microsoft Teams Phone Resource Account licenses
 
+> [!NOTE]
+> There is no longer any cost associated with acquiring Teams Phone Resource Account licenses.
+
 In Microsoft Teams, auto attendants and call queues that directly answer calls require an associated resource account. Each resource account must be assigned a **Microsoft Teams Phone Resource Account** license to ensure they're correctly identified by the system and properly function, *regardless of whether the resource account will be assigned a telephone number*.
 
 A Microsoft calling plan isn't required unless you want to be able to dial out using that resource account. For more information, see [Plan for Teams auto attendant and call queues](../plan-auto-attendant-call-queue.md#prerequisites).

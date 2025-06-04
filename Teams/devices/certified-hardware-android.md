@@ -58,7 +58,7 @@ The following devices are certified under the Microsoft Teams Rooms on Android C
 | Cisco Room Bar | `RoomOS11.5` | September 3, 2025 | Small Meeting Room (4.5 m x 4.5 m) | 11 |
 | Cisco Desk Pro | `RoomOS11.5` | September 3, 2025 | Focus Room | 11 |
 | Cisco Room Navigator | `RoomOS11.5` | August 15, 2027 | Compatible with Cisco Room Bar and Cisco Room Kit Pro | 12 |
-| Cisco Room Kit EQX | `RoomOS11.15` | September 3, 2025 |  Large Meeting Room (4.5m x 8.5 m)| 11 |
+| Cisco Room Kit EQX | `RoomOS11.15` | September 3, 2025 |  Large Meeting Room (4.5 m x 8.5 m)| 11 |
 | Cisco Board Pro G2 55 | `RoomOS11.15` | September 3, 2025 |  Medium size room (4.5 m x 6 m) | 11 |
 | Cisco Board Pro G2 75 | `RoomOS11.15` | September 3, 2025 |  Medium size room (4.5 m x 6 m) | 11 |
 | Crestron AIO Video Bar 70 | `1.240618.1240` | September 3, 2025 | Large meeting room (4.5 m x 8.5 m) | 10|
@@ -72,20 +72,22 @@ The following devices are certified under the Microsoft Teams Rooms on Android C
 | DTEN D7X 75" | `1.2.8` |  August 15, 2027 |  Medium size room (4.5 m x 6 m) | 12 |
 | DTEN Mate Touch Console | `2.0.2.0` | September 3, 2025 | Compatible with DTEN DCR200 Bar (Medium and small rooms), DTEN D7X 55" and DTEN D7X 75" Meeting Board | 10 |
 | DTEN D7X 55" | `1.2.2` |August 15, 2027| Small meeting room (4.5 m x 4.5 m) | 12 |
-| DTEN Bar + Vue | `1.3.0` | October 4, 2026 | Small Meeting Room (4.5 m x 4.5 m) | 12 |
-| DTEN Bar + Vue Pro | `1.3.0` | October 4, 2026 | Small Meeting Room (4.5 m x 4.5 m) | 12 |
+| DTEN Bar + Vue | `1.3.0` | August 15, 2027 | Small Meeting Room (4.5 m x 4.5 m) | 12 |
+| DTEN Bar + Vue Pro | `1.3.0` | August 15, 2027 | Small Meeting Room (4.5 m x 4.5 m) | 12 |
 | EPOS Expand 5T | `1.2.22362.04` | September 3, 2025 | Small meeting room (4.5 m x 4.5 m) | 10 |
 | EPOS EXPAND Control Touch Console | `1.2.22250.08` | September 3, 2025 | Compatible with EPOS Expand 5T Collaboration Bar. | 10 |
 | Jabra PanaCast 50 VBS | `1.1.0-1` | September 3, 2025 | Medium size room (4.5 m x 6 m) | 10 |
 | Jabra PanaCast 50 Touch Console | `1.1.0-1` | September 3, 2025 | Compatible with Jabra PanaCast 50 VBS | 10 |
 | Logitech Rally Board 65 (VR0039)  | `0.901.13` | August 15, 2027 | Medium size room (4.5 m x 6 m) | 13 |
-| Logitech Rally Bar Huddle (VR0034)  | `0.903.73` | September 3, 2025 | Focus room(3 m x 3 m) | 11 |
-| Logitech Tap IP Touch console (VR0029) | `1.6.565` | September 3, 2025 | Compatible with Logitech Room Mate, Rally Bar, Rally Bar Mini and Rally Bar 65 | 10 |
+| Logitech Rally Bar Huddle (VR0034)  | `0.903.73` | September 3, 2025 | Focus room (3 m x 3 m) | 11 |
+| Logitech Tap IP Touch console (VR0029) | `1.6.565` | September 3, 2025 | Compatible with Logitech Room Mate, Rally Bar, Rally Bar Mini, Rally Bar Huddle and Rally Board 65 | 10 |
 | Logitech Roommate (VR0030) | `1.4.71` | September 3, 2025 | Large meeting room (4.5 m x 8.5 m) | 10 |
-| Logitech Tap USB Touch Console | `1.2.982` | September 3, 2025 | Compatible with Logitech Rally Bar, Rally Bar Mini, and Roommate | 10 |
+| Logitech Tap USB Touch Console | `1.2.982` | September 3, 2025 | Compatible with Logitech Rally Bar, Rally Bar Mini, Rally Bar Huddle, Roommate and Rally Board 65 | N/A |
 | Logitech Rally Bar Mini (VR0020) | `1.2.982` | September 3, 2025 | Small Meeting Room (4.5 m x 4.5 m) | 10 |
 | Logitech Rally Bar (VR0019) | `1.2.788` | September 3, 2025 | Medium size room (4.5 m x 6 m) | 10 |
-| Neat Bar Pro + Shure Complete Room Bundle| `NFD1.20241113.0013`| September 3,2025 | Medium size room (4.5 m x 6 m) | 10 |
+| MAXHUB XBar 50 | `ATB001.00.20250326.1141 (MDEP)` | August 15, 2027 | Small Meeting Room (4.5 m x 4.5 m) | 13 |
+| MAXHUB XPanel AP30 | `ATT101.00.20250326.1236 (MDEP)` | August 15, 2027 | Compatible with MAXHUB XBar 50 | 13 |
+| Neat Bar Pro + Shure Complete Room Bundle| `NFD1.20241113.0013`| September 3, 2025 | Medium size room (4.5 m x 6 m) | 10 |
 | Neat Bar Pro | `NFD1.20220914.1210` | September 3, 2025 | Medium size room (4.5 m x 6 m) | 10 |
 | Neat Bar | `NFF1.20220914.1210` | September 3, 2025 | Medium size room (4.5 m x 6 m) | 10 |
 | Neat Pad Touch Console | `NFA1.20230928.0108` | September 3, 2025 | Compatible with Neat Bar Gen 2, Neat Bar, Neat Bar Pro, Neat Board 50, Neat Board & Neat Board Pro 65 | 10 |
@@ -106,7 +108,7 @@ The following devices are certified under the Microsoft Teams Rooms on Android C
 | Poly TC10 | `4.1.0-211075` | September 3, 2025 |Compatible with Poly Studio X30, Poly Studio X50, Poly Studio X70, Poly Studio X32, Poly Studio X52, Poly Studio X72, Poly G7500 and Poly Studio G62| 11 |
 | Yealink DeskVision A24 | `156.15.0.29` | September 3, 2025 | Phone room (2 m x 2 m) | 10 |
 | Yealink CTP18 touch console | `137.320.0.81` | August 15, 2027 | Compatible with Yealink Meeting Board 86/65, MeetingBar A20 and Yealink MeetingBar A30 | 13 |
-| Yealink MeetingBar A10 | `278.15.0.6` | September 3, 2025 | Small meeting room (4.5 m x 4.5 m) | 11 |
+| Yealink MeetingBar A10 | `278.320.0.64` | August 15, 2027 | Small meeting room (4.5 m x 4.5 m) | 13 |
 | Yealink MeetingBar A20 | `133.320.0.113` | August 15, 2027 | Small meeting room(4.5 m x 4.5 m) | 13 |
 | Yealink MeetingBar A30 | `133.320.0.113` | August 15, 2027 | Medium size room (4.5 m x 6 m) | 13 |
 | Yealink MeetingBar A40 | `289.320.0.11` | August 15, 2027 | Medium size room (4.5 m x 6 m) | 13 |
@@ -133,6 +135,9 @@ For information about the latest Teams app releases, see [What's new in Microsof
 
 | Device model | Latest Firmware version | Minimum Firmware version required | Teams client | Company Portal | Microsoft Intune | Authenticator | Admin Agent | Release date |
 |:-------------------|:----------------------------|:--------------------------------------------|:-------------------------------|:-------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|
+| Audiocodes RXV81 | `2.8.574 (AOSP)` | N/A| `1449/1.0.96.2025031102` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202412110504.product (753)` | June 2, 2025|
+| Audiocodes RX-Pad | `2.8.574 (AOSP)` | N/A | `1449/1.0.96.2025031102` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202412110504.product (753)` | June 2, 2025|
+| Audiocodes RXV200 | `2.8.574 (AOSP)` | N/A | `1449/1.0.96.2025031102` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202412110504.product (753)` | June 2, 2025|
 | Audiocodes RXV81 | `2.8.208 (AOSP)` | N/A| `1449/1.0.96.2025010301` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202407050618.product (733)` | February 27, 2025|
 | Audiocodes RX-Pad | `2.8.208 (AOSP)` | N/A | `1449/1.0.96.2025010301` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202407050618.product (733)` | February 27, 2025|
 | Audiocodes RXV200 | `2.8.208 (AOSP)` | N/A | `1449/1.0.96.2025010301` | `N/A`| `24.09.1` | `6.2410.7268` | `1.0.0.202407050618.product (733)` | February 27, 2025|
@@ -167,6 +172,17 @@ For information about the latest Teams app releases, see [What's new in Microsof
 
 | Device model | Latest Firmware version | Minimum Firmware version required | Teams client | Company Portal | Microsoft Intune | Authenticator | Admin Agent | Release date |
 |:-------------------|:----------------------------|:--------------------------------------------|:-------------------------------|:-------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|
+| Cisco Board Pro 55 | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Board Pro 75 | `ce11.27.1.8 (AOSP)` |  N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Room Bar | `ce11.27.1.8 (AOSP)` |  N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Room Kit Pro | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Desk Pro | `ce11.27.1.8 (AOSP)` |  N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Room Bar Pro | `ce11.27.1.8 (AOSP)` |  N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Room Kit EQ | `ce11.27.1.8 (AOSP)` |  N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Navigator | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Room Kit EQX | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
+| Cisco Board Pro G2 55 | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202407050618.produc (733)`| June 2, 2025|
+| Cisco Board Pro G2 75 | `ce11.27.1.8 (AOSP)` | N/A | `1449/1.0.96.2025020302` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| June 2, 2025|
 | Cisco Board Pro 55 | `ce11.25.1.6 (AOSP)` | N/A | `1449/1.0.96.2025010301` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| April 9, 2025|
 | Cisco Board Pro 75 | `ce11.25.1.6 (AOSP)` |  N/A | `1449/1.0.96.2025010301` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| April 9, 2025|
 | Cisco Room Bar | `ce11.25.1.6 (AOSP)` |  N/A | `1449/1.0.96.2025010301` | `N/A`|`24.09.1`|`6.2410.7268`| `1.0.0.202412110504.product (753)`| April 9, 2025|
@@ -352,6 +368,7 @@ For information about the latest Teams app releases, see [What's new in Microsof
 
 | Device model | Latest Firmware version | Minimum Firmware version required | Teams client | Company Portal | Microsoft Intune | Authenticator | Admin Agent | Release date |
 |:-------------------|:----------------------------|:--------------------------------------------|:-------------------------------|:-------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|:--------------------------------|
+| Jabra Panacast 50 VBS | `6.5.2-1 (MDEP)`| `3.6.0-31`| `1449/1.0.96.2024091202`|`N/A`| `24.09.1` | `6.2410.7268` |`1.0.0.202407050618.product (733)` | May 26, 2025|
 | Jabra Panacast 50 VBS | `6.5.0-7 (MDEP)`| `3.6.0-31`| `1449/1.0.96.2024091202`|`N/A`| `24.09.1` | `6.2410.7268` |`1.0.0.202407050618.product (733)` | February 13, 2025|
 | Jabra Panacast 50 TC | `6.5.0-7 (MDEP)`| `3.6.0-31`| `1449/1.0.96.2024091202`|`N/A`| `24.09.1` | `6.2410.7268` |`1.0.0.202407050618.product (733)` | February 13, 2025|
 | Jabra Panacast 50 VBS | `3.6.0-31` |  N/A|  `1449/1.0.96.2024080804` | `5.0.6152.0` |`N/A`|`N/A`| `1.0.0.202402202353.product` | September 11, 2024|

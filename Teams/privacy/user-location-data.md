@@ -2,12 +2,14 @@
 title: User location consent experience in Microsoft Teams
 ms.author: danbrown
 author: DHB-MSFT
-manager: laurawi
+manager: dansimp
 ms.topic: concept-article
 ms.service: msteams
 ms.reviewer: mimaisle
 audience: ITPro
-ms.collection: privacy-teams
+ms.collection: 
+- privacy-teams
+- must-keep
 hideEdit: true
 description: Learn about an updated user location consent experience in Microsoft Teams, including what dialogs and settings are available to Teams users and effect.
 ms.localizationpriority: medium
