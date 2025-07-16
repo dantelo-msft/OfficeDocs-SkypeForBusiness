@@ -118,16 +118,18 @@ Per-country regulatory requirements specify data retention of detailed call reco
 | :---: | :--- | :--- |
 | CA – Canada | 150 | 150 |
 | CH – Switzerland | 365 | 365 |
+| DE – Germany | 180 | 150 |
 | DK – Denmark | 365 | 365 |
 | FI – Finland | 365 | 365 |
 | FR – France | 365 | 365 |
+| GB – Great Britain | 450 | 450 |
 | IT – Italy | 730 | 730 |
 | KR – South Korea | 365 | 365 |
-| MX – Mexico | 720 | 730 |
+| MX – Mexico | 730 | 730 |
 | NL – Netherlands | 180 | 180 |
 | NO – Norway | 150 | 150 |
 | SE – Sweden | 180 | 180 |
-| GB – Great Britain | 450 | 450 |
+| UK – United Kingdom | 450 | 450 |
 | All other countries | 365 | 150 |
 
 Note that these rules apply to the PSTN and Direct Routing reports in Tenant Admin Center, data export, and the PSTN and Direct Routing call logs available via Microsoft Graph. Data retention in other reports, such as Call Analytics and Call Quality Dashboard, may differ.
